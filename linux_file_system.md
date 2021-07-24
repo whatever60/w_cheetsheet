@@ -38,3 +38,5 @@ var  # variable files, such as log and cache
 [The Linux File System...for humans - YouTube](https://www.youtube.com/watch?v=UFIoRLqhFpo)
 
 [the Linux File System explained in 1,233 seconds // Linux for Hackers // EP 2 - YouTube](https://www.youtube.com/watch?v=A3G-3hp88mo)
+
+[Linux Directories Explained in 100 Seconds - YouTube](https://www.youtube.com/watch?v=42iQKuQodW4)
